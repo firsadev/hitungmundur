@@ -1,0 +1,26 @@
+{
+    "name": "firsadev/hitungmundur",
+    "description": "UI laravel untuk hitung mundur pada blade",
+    "type": "library",
+    "require": {
+        "livewire/livewire": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Firsadev\\HitungMundur\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Firsadev\\HitungMundur\\HitungMundurProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "firsadev",
+            "email": "firsadev28@gmail.com"
+        }
+    ]
+}
