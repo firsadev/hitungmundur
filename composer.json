@@ -5,6 +5,7 @@
     "require": {
         "livewire/livewire": "^3.5"
     },
+    "license": "GUI",
     "stability": "stable",
     "autoload": {
         "psr-4": {
