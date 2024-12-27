@@ -5,6 +5,7 @@
     "require": {
         "livewire/livewire": "^3.5"
     },
+    "stability": "stable",
     "autoload": {
         "psr-4": {
             "Firsadev\\HitungMundur\\": "src/"
